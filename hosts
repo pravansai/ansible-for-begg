@@ -1,0 +1,8 @@
+[webservers]
+172.31.25.232
+[appservers]
+172.31.20.160
+[dbservers]
+172.31.30.105
+
+
